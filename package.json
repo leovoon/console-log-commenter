@@ -2,8 +2,9 @@
     "name": "console-log-commenter",
     "displayName": "Console Log Commenter",
     "description": "Quickly comment and uncomment all console.log statements in the current file via the context menu.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "leovoon",
+    "icon": "icon.png",
     "repository": {
       "type": "git",
       "url": "https://github.com/leovoon/console-log-commenter.git"
